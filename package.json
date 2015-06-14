@@ -1,9 +1,12 @@
 {
+  "title": "fxLogcat : Firefox Logcat",
   "name": "fxlogcat",
-  "title": "fxLogcat",
-  "id": "jid1-xhiyfzwcaBbcZw",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "id": "fxlogcat@gh4ck3r.com",
+  "description": "Android Logcat Log Viewer for Firefox & FirefoxOS",
+  "author": "Changbin Park",
+  "license": "MIT",
+  "homepage": "http://fxlogcat.github.com",
+  "icon": "data/icon.png",
+  "prefrences": [],
+  "version": "0.1dev"
 }
