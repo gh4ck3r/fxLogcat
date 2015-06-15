@@ -1,4 +1,6 @@
-CFX	:= cfx
+CFX_OPTIONS := --profiledir=fxlogcat.profile
+CFX	:= cfx $(CFX_OPTIONS)
+
 TARGET := fxlogcat.xpi
 
 .PHONY: all test run cfx clean
